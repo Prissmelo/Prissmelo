@@ -2,7 +2,7 @@
 
 <img align="right" height="590em" src=""/>
 
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Priscila Melo</h1>
+<h1 align="left">Hi there <img src="https://picrew.me/image_maker/626197/complete?cd=AnWmvvUWXm" width="30px">, I'm Priscila Melo</h1>
 <p align="left">  </p>
 
 and take your time...
@@ -49,8 +49,13 @@ and take your time...
 
 ## 👩🏽‍🦱 &nbsp;Social Links
 
-https://www.linkedin.com/in/priscila-melo-3b0b05199
 
+<div> 
 
-![Snake animation](https://github.com/Prissmelo/Prissmelo/blog/output/github-contribution-grid-snake.svg)
+  <a href = "mailto:cprismelo17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/priscila-melo-3b0b05199" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/Prissmelo/Prissmelo/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
