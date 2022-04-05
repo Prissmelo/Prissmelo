@@ -1,6 +1,6 @@
 
 
-<img align="right" height="590em" src="https://picrew.me/image_maker/626197/complete?cd=AnWmvvUWXm"/>
+<img align="right" height="100em" src="https://picrew.me/image_maker/626197/complete?cd=AnWmvvUWXm"/>
 
 <h1 align="left">Hi there, I'm Priscila Melo</h1>
 
